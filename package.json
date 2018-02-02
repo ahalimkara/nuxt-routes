@@ -1,6 +1,6 @@
 {
   "name": "nuxt-routes",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Dynamic routes for Nuxt.js",
   "license": "MIT",
   "contributors": [
